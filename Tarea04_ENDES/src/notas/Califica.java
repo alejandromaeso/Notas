@@ -10,7 +10,9 @@ package notas;
 public class Califica {
 
 	/**
-	 * @param num_nota
+	 * Se ha creado esta nueva clase en la que se ha movido el método "califica" 
+	 * mediante la funcionalidad "mover" de la refactorización
+	 * @param num_nota: este es el parámetro que va a introducir el usuario por teclado.
 	 */
 	public static void califica(int num_nota) {
 		String calificacion;
